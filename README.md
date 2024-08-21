@@ -1,7 +1,15 @@
 About me
-Name: Dang
-Email: dangwd.vicidev@gmail.com
-Software engineer | Vuejs | 
+<ul>
+  <li>
+    Name: Dang
+  </li>
+  <li>
+    Email: dangwd.vicidev@gmail.com
+  </li>
+  <li>
+Web Developer | Vuejs | 
+  </li>
+</ul>
 <!--
 **dangwd/dangwd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
