@@ -1,5 +1,7 @@
-## Hi there 👋
-
+About me
+Name: Dang
+Email: dangwd.vicidev@gmail.com
+Software engineer | Vuejs | 
 <!--
 **dangwd/dangwd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
