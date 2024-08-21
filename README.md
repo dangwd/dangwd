@@ -13,11 +13,7 @@ Web Developer | Vuejs |
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dang&theme=tokyonight&hide_border=true&card_width=810px)](https://git.io/streak-stats)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+
 <!--
 **dangwd/dangwd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
