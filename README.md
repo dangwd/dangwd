@@ -1,7 +1,7 @@
 <h1>About me</h1>
 <ul>
   <li>
-    Name: Dang
+    Name: Nguyen Minh Dang
   </li>
   <li>
     Email: dangwd.vicidev@gmail.com
