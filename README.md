@@ -4,10 +4,10 @@
     Name: Nguyen Minh Dang
   </li>
   <li>
-    Email: dangwd.vicidev@gmail.com
+    Email: dangwd.dev@gmail.com
   </li>
   <li>
-Web Developer | Vuejs | 
+Web Developer | Vuejs | Javascript
   </li>
 </ul>
 
